@@ -13,7 +13,7 @@
 - **Tools:** Git, Notion, VS Code
 
 ## 🔗 Links
-- **Notion Portfolio:** [Workfolio 바로가기](https://www.notion.so/Workfolio-27498926852980d985ccca29c718a7e0)
+- **Notion Portfolio:** [Browse My Workfolio](https://www.notion.so/Workfolio-27498926852980d985ccca29c718a7e0)
 - **Contact:** myungsoo8504@gmail.com
 
 ---
