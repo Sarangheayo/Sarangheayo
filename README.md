@@ -5,7 +5,7 @@
 </p>
 
 ## 📋 About Me
-"탄탄한 기술 스택 위에 혁신을 쌓아 올리는 개발자, Sara입니다."
+"Building innovation upon a rock-solid tech stack."
 
 ## 🛠 Tech Stack
 - **Frontend:** React, TypeScript, Next.js
@@ -16,7 +16,3 @@
 - **Notion Portfolio:** [Browse My Workfolio](https://www.notion.so/Workfolio-27498926852980d985ccca29c718a7e0)
 - **Contact:** myungsoo8504@gmail.com
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarangheayo&show_icons=true&theme=ocean" />
-</p>
